@@ -1,8 +1,7 @@
-import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='w-full fixed p-5 bg-slate-300 text-slate-700'>
+    <div className='w-full fixed p-5 text-slate-100 border-b border-slate-700'>
       Navbar
     </div>
   )
